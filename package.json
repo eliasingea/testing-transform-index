@@ -1,0 +1,12 @@
+{
+  "name": "Untapped",
+  "version": "1.0.0",
+  "description": "Transform an index",
+  "main": "\\",
+  "author": "Elias Ingea",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "algolia-index-transform": "^1.0.6"
+  }
+}
